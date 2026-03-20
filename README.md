@@ -169,6 +169,44 @@ Simulates payout through a payment gateway.
 Redis Cache
 
 Stores real-time policy data and disruption monitoring information
+# Workflow of the Application
+
+The working process of the system is as follows: 
+
+1.	User Registration
+2.	
+Delivery workers create an account on the platform.
+
+Premium Plan Selection
+
+Users choose a weekly insurance plan.
+
+Data Collection
+
+The system collects relevant data such as:
+
+•	Weather data
+
+•	Delivery activity
+
+•	Location information
+
+AI Risk Analysis
+
+AI models analyze risk levels and determine appropriate premiums.
+
+Parametric Trigger Monitoring
+
+The system continuously monitors predefined triggers such as heavy rainfall or accidents.
+
+Automatic Claim Processing
+
+If a trigger condition is met, the system automatically processes compensation.
+
+Instant Payout
+
+The delivery worker receives financial support directly.
+
 # AI Components
 Uses environmental data such as:
 
