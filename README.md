@@ -102,9 +102,62 @@ Fraud Detection Service
 Claim Processing Service
 
 Payout Service
+# Persona Based Scenario
+Name: Rahul
+
+Age: 26
+
+Occupation: Food Delivery Partner
+
+Scenario
+
+Rahul works as a delivery partner and depends on daily deliveries for income.
+
+Rahul downloads the insurance platform and registers.
+
+He selects a weekly premium plan.
+	
+The system monitors real-time data like weather and delivery activity.
+   
+One day heavy rainfall affects deliveries.
+	
+The system automatically detects the weather condition.
+	
+A parametric trigger activates, and Rahul receives compensation automatically without submitting any claim.
+
+This ensures Rahul has financial support during difficult conditions
+
 
 Redis is used as a real-time caching layer for policy data, worker activity, and disruption monitoring.
 # Architecture Diagram
 
 <img width="1411" height="788" alt="image" src="https://github.com/user-attachments/assets/baa39633-e6a1-4141-aacd-6f7f07ad4bec" />
+# Core Components
+# Worker App
+Allows gig workers to register, purchase policies, and track coverage.
+
+# Backend API
+Handles user requests and publishes events to Kafka.
+
+# Kafka Event System
+Central message broker enabling event-driven communication between services.
+
+# Risk Engine
+Uses AI models to calculate disruption risk and determine weekly premium pricing.
+
+# Trigger Engine
+Detects environmental disruption events and initiates automatic claims.
+
+# Fraud Detection
+Validates worker location, activity patterns, and claim legitimacy.
+
+# Claim Service
+Handles automated claim processing.
+
+# Payout Service
+Simulates payout through a payment gateway.
+
+# Redis Cache
+Stores real-time policy data and disruption monitoring information
+
 
