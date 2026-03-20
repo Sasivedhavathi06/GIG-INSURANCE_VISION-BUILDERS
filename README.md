@@ -134,31 +134,40 @@ Redis is used as a real-time caching layer for policy data, worker activity, and
 
 # Core Components
 
-# Worker App
+Worker App
+
 Allows gig workers to register, purchase policies, and track coverage.
 
-# Backend API
+Backend API
+
 Handles user requests and publishes events to Kafka.
 
-# Kafka Event System
+Kafka Event System
+
 Central message broker enabling event-driven communication between services.
 
-# Risk Engine
+Risk Engine
+
 Uses AI models to calculate disruption risk and determine weekly premium pricing.
 
-# Trigger Engine
+Trigger Engine
+
 Detects environmental disruption events and initiates automatic claims.
 
-# Fraud Detection
+Fraud Detection
+
 Validates worker location, activity patterns, and claim legitimacy.
 
-# Claim Service
+Claim Service
+
 Handles automated claim processing.
 
-# Payout Service
+Payout Service
+
 Simulates payout through a payment gateway.
 
-# Redis Cache
+Redis Cache
+
 Stores real-time policy data and disruption monitoring information
 
 
