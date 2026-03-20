@@ -131,6 +131,7 @@ Redis is used as a real-time caching layer for policy data, worker activity, and
 # Architecture Diagram
 
 <img width="1411" height="788" alt="image" src="https://github.com/user-attachments/assets/baa39633-e6a1-4141-aacd-6f7f07ad4bec" />
+
 # Core Components
 
 # Worker App
