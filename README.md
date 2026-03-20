@@ -191,7 +191,7 @@ Stores real-time policy data and disruption monitoring information
 
 The working process of the system is as follows: 
 
-1.	User Registration
+User Registration
 	
 Delivery workers create an account on the platform.
 
