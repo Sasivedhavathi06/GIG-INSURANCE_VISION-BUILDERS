@@ -77,6 +77,7 @@ Heavy Rain → Rainfall above limit → ₹300
 Accident → Accident detected/reported → ₹2000
 
 Severe Traffic → Delivery delay due to traffic → ₹200
+
 Benefit
 
 Instant payout
@@ -84,3 +85,22 @@ Instant payout
 No paperwork
 
 Simple and fast process
+ # System Architecture
+
+The platform uses an event-driven architecture built around Kafka and Redis.
+
+Worker actions and environmental events are published to a Kafka event streaming system, enabling services to process events asynchronously.
+
+Core services include:
+
+Risk Engine (AI-based premium calculation)
+
+Trigger Engine (detect disruption events)
+
+Fraud Detection Service
+
+Claim Processing Service
+
+Payout Service
+
+Redis is used as a real-time caching layer for policy data, worker activity, and disruption monitoring.
