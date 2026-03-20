@@ -54,6 +54,7 @@ The platform follows a weekly premium model so that delivery workers can afford 
 Plan	Weekly Premium	Coverage
 
 Basic Plan	₹20	Rain delay support
+
 Standard Plan	₹40	Accident and delay support
 
 Premium Plan	₹70	Full coverage
@@ -67,4 +68,12 @@ Benefits of the weekly model:
 •	Flexible payment structure
 
 •	Easy enrollment
+# Parametric Triggers
+Parametric insurance gives automatic compensation based on certain conditions, without any manual claim process.
+Triggers
 
+Heavy Rain → Rainfall above limit → ₹300
+
+Accident → Accident detected/reported → ₹2000
+
+Severe Traffic → Delivery delay due to traffic → ₹200
