@@ -85,6 +85,24 @@ Instant payout
 No paperwork
 
 Simple and fast process
+## Platform Choice
+
+We have chosen to develop a Web-based platform for our solution.
+
+### Why Web Platform?
+- Easy accessibility from any device
+  
+- No installation required
+  
+- Faster updates and maintenance
+  
+- Scalable for multiple users
+
+### Future Scope
+- Mobile app (Android/iOS) can be developed later
+  
+- Integration with real-time APIs
+  
 # Persona Based Scenario
 Name: Rahul
 
