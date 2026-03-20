@@ -7,14 +7,19 @@ The goal of this system is to provide fast, transparent, and automated insurance
 # Problem Statement
 Gig delivery workers depend on daily work availability. When disruptions occur:
 Heavy rainfall stops deliveries
+
 Severe pollution prevents outdoor work
+
 Flooded roads block delivery routes
+
 Extreme temperatures reduce working hours
+
 These disruptions can reduce 20–30% of a worker's weekly income, and currently workers bear the full financial loss.
+
 Traditional insurance systems are not suitable because they require manual claims and slow processing
 # Proposed Solution
 The proposed solution is to develop an AI-powered parametric insurance system for delivery workers that provides instant compensation when disruptions affect their ability to earn.
-#  How the Solution Works
+How the Solution Works
 The system continuously monitors external conditions such as:
 
 Weather conditions (rain, storm)
