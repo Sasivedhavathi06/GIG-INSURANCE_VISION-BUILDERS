@@ -265,6 +265,10 @@ Worker onboarding, policy management, dynamic premium calculation
 Phase 3 – Scale and Optimization
 
 Fraud detection, automated claims, instant payout simulation, analytics dashboards.
+# Prototype Link
+
+https://www.figma.com/make/14aRcDopwcRT8vVJrSAJ5c/AI-Powered-Insurance-Platform?t=hFcgHZCpqqgF4BaN-0&preview-route=%2Fprofile
+
 # Expected Impact
 This platform aims to provide:
 
