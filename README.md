@@ -169,5 +169,86 @@ Simulates payout through a payment gateway.
 Redis Cache
 
 Stores real-time policy data and disruption monitoring information
+# AI Components
+Uses environmental data such as:
+
+Rainfall history
+Air quality levels
+Seasonal weather patterns
+Location-based environmental risks
+Output:
+
+Risk score used to dynamically calculate weekly insurance premiums.
+
+Fraud Detection Model
+Uses anomaly detection to identify suspicious claims such as:
+
+Location mismatch
+Duplicate claims
+Abnormal claim patterns
+# Technology Stack
+The proposed technology stack includes:
+Frontend
+
+React.js
+
+Tailwind CSS
+
+Backend
+
+Node.js
+
+SpringBoot
+
+Database
+
+MongoDB
+
+AI/ML
+
+Python
+
+Machine Learning Libraries
+
+Cloud Services
+
+AWS / Firebase
+
+External APIs
+
+Weather APIs
+
+Air Quality APIs
+# AI/ML Integration
+Artificial Intelligence will play a major role in the system.
+AI/ML will be used for:
+
+Premium Calculation
+
+AI analyzes risk factors such as weather patterns and delivery zones to determine fair premiums.
+
+Fraud Detection
+
+Machine learning algorithms detect suspicious claims or unusual activities.
+
+Risk Prediction
+
+AI predicts possible risks using historical data.
+
+Smart Automation
+
+The system automatically triggers payouts when conditions are met.
+
+Possible AI tools:
+
+•	Python
+
+•	Scikit-learn
+
+•	TensorFlow
+
+•	Pandas
+
+•	Data analytics models
 
 
