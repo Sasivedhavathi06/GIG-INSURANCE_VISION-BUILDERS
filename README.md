@@ -19,7 +19,9 @@ These disruptions can reduce 20–30% of a worker's weekly income, and currently
 Traditional insurance systems are not suitable because they require manual claims and slow processing
 # Proposed Solution
 The proposed solution is to develop an AI-powered parametric insurance system for delivery workers that provides instant compensation when disruptions affect their ability to earn.
+
 How the Solution Works
+
 The system continuously monitors external conditions such as:
 
 Weather conditions (rain, storm)
@@ -29,7 +31,7 @@ Traffic congestion
 Unexpected incidents (accidents, roadblocks)
 
 When any of these conditions cross a predefined threshold:
-# The system automatically:
+#The system automatically:
 Detects the disruption
 
 Estimates the income loss
