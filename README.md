@@ -77,3 +77,10 @@ Heavy Rain → Rainfall above limit → ₹300
 Accident → Accident detected/reported → ₹2000
 
 Severe Traffic → Delivery delay due to traffic → ₹200
+Benefit
+
+Instant payout
+
+No paperwork
+
+Simple and fast process
