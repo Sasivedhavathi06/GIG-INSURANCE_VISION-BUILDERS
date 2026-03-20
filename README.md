@@ -174,7 +174,7 @@ Stores real-time policy data and disruption monitoring information
 The working process of the system is as follows: 
 
 1.	User Registration
-2.	
+	
 Delivery workers create an account on the platform.
 
 Premium Plan Selection
@@ -211,18 +211,25 @@ The delivery worker receives financial support directly.
 Uses environmental data such as:
 
 Rainfall history
+
 Air quality levels
+
 Seasonal weather patterns
+
 Location-based environmental risks
+
 Output:
 
 Risk score used to dynamically calculate weekly insurance premiums.
 
 Fraud Detection Model
+
 Uses anomaly detection to identify suspicious claims such as:
 
 Location mismatch
+
 Duplicate claims
+
 Abnormal claim patterns
 # Technology Stack
 The proposed technology stack includes:
