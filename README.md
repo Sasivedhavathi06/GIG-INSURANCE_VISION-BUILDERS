@@ -1,4 +1,4 @@
-# GIG-INSURANCE_VISION-BUILDERS
+# GIg Insurance -AI Powered Parametric Insurance for Gig Workers
 AI-powered parametric insurance platform that protects gig delivery workers from income loss caused by external disruptions such as extreme weather and environmental conditions.
 # Overview
 Delivery workers face many risks during their daily work such as accidents, extreme weather conditions, vehicle breakdowns, and income instability. Traditional insurance processes are slow and require manual claim verification.
