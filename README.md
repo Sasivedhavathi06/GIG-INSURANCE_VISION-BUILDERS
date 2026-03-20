@@ -332,9 +332,8 @@ Fraud detection, automated claims, instant payout simulation, analytics dashboar
 
  [Click here to view the prototype](https://www.figma.com/make/14aRcDopwcRT8vVJrSAJ5c/AI-Powered-Insurance-Platform?t=hFcgHZCpqqgF4BaN-0&preview-route=%2Fprofile)
 ## Demo Video
-
-Click here to watch the demo:  
-[Watch Demo](https://youtu.be/VqCVzcjaQPw)
+  
+[ Click here to Watch the Demo Vedio](https://youtu.be/VqCVzcjaQPw)
 # Expected Impact
 This platform aims to provide:
 
