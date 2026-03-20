@@ -31,9 +31,40 @@ Traffic congestion
 Unexpected incidents (accidents, roadblocks)
 
 When any of these conditions cross a predefined threshold:
-#The system automatically:
+
+The system automatically:
 Detects the disruption
 
 Estimates the income loss
 
 Triggers compensation instantly
+ # Key Idea (Parametric Insurance)
+ The platform evaluates risk using:
+
+Location data
+
+Weather conditions
+
+Historical earnings
+
+Work activity
+# Weekly Premium Model
+The platform follows a weekly premium model so that delivery workers can afford insurance easily.
+
+Plan	Weekly Premium	Coverage
+
+Basic Plan	₹20	Rain delay support
+Standard Plan	₹40	Accident and delay support
+
+Premium Plan	₹70	Full coverage
+
+Premiums may change based on AI-based risk assessment.
+
+Benefits of the weekly model:
+
+•	Affordable for gig workers
+
+•	Flexible payment structure
+
+•	Easy enrollment
+
